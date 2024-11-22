@@ -82,7 +82,7 @@
             <li>No hagas clic en enlaces sospechosos.</li>
             <li>Verifica la autenticidad del remitente.</li>
             <li>Usa contraseñas fuertes y cambia tus contraseñas regularmente.</li>
-            <li>Instala programas antivirus y mantén tu sistema operativo actualizado.</li>
+            <li>Instala algún antivirus y mantén tu sistema operativo actualizado.</li>
         </ul>
 
         <p>Si tienes dudas, puedes aprender más sobre cómo prevenir ataques de phishing en los siguientes recursos:</p>
@@ -98,7 +98,7 @@
 
     <!-- Footer -->
     <div class="footer">
-        <p>&copy; 2024 - Proyecto de Ciberseguridad en Redes</p>
+        <p>&copy; 2024 - Héctor & Izan </p>
     </div>
 
 </body>
