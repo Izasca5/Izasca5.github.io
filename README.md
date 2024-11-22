@@ -1,9 +1,9 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
-    <!DOCTYPE html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulación de Phishing - Proyecto de Ciberseguridad</title>
+    <title>¡Has quedado expuesto a un ataque de Phising!</title>
     
     <!-- Código de Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=TU-ID-DE-SEGUIMIENTO"></script>
@@ -98,7 +98,7 @@
 
     <!-- Footer -->
     <div class="footer">
-        <p>&copy; 2024 - Héctor & Izan </p>
+        <p>&copy; 2024 - Héctor & Izan</p>
     </div>
 
 </body>
